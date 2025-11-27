@@ -6,7 +6,7 @@ import java. util.*;
 public class Welcome1{
 	// Método "main" inicia a execução do aplicativo JavaCodebaseComponent
 	
-	public static void main(Sting[] args){
+	public static void main(String[] args){
 		System.out.println("Welcome to Java Programming!");
 	}
 	
