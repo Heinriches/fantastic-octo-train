@@ -7,7 +7,7 @@ import java. util.*;
 
 public class Welcome1{											// Início da classe "Welcome1".
 	
-	public static void main(String[] args){							// Início do método "main" inicia a execução do aplicativo.
+	public static void main(String[] args){							// Início do método "main", ponto inicial da execução do aplicativo.
 		System.out.println("Welcome to Java Programming!");		
 	}																// fim do método "main".
 	
